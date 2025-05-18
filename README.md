@@ -24,3 +24,5 @@ HAproxy должен балансировать только тот http-тра�
 
 ![Screenshot_128](https://github.com/user-attachments/assets/b4fed02f-6fb6-4d61-a569-8b5b2d088d05)
 ![Screenshot_129](https://github.com/user-attachments/assets/6f56ef7b-5a7f-4012-9f80-768c9899e08a)
+
+![Screenshot_130](https://github.com/user-attachments/assets/13508daf-d78d-4fd8-86f9-a218e51f286b)
